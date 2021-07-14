@@ -1,0 +1,134 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.top-site{
+    background-color: #F0FFF0;
+    padding-bottom: 70px;
+}
+.navbar{
+    font-weight: 700;
+}
+.navbar-brand{
+    width: 198.07px;
+    height: 59px;
+}
+.navbar .nav-link{
+    padding-right: 12px;
+}
+.navbar .nav-link:hover{
+    background-color: #54d818;
+    border-radius: 33px;
+}
+.btn{
+    border-radius: 33px;
+    padding: 10px 30px;
+}
+.btn:hover{
+    background-color: rgb(35, 243, 35);
+    border: none;
+}
+.second-part{
+    padding-top: 30px;
+}
+.another h5{
+    color:#FD511A ;
+    line-height: 24px;
+}
+.another h1{
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 70px;
+}
+.another p{
+    font-size: 16px;
+    line-height: 36px;
+}
+.online-test{
+    background-color: #E5E5E5;
+}
+.student-test{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.student-test img{
+    width: 66px;
+    height: 85px;
+}
+.carder-1{
+    border: none;
+    border-radius: 12px;
+    background-color: #f1fff7;
+    padding-top: 25px;
+    padding-bottom: 20px;
+}
+.carder-1:hover{
+    background-color: white;
+    box-shadow: 8px 8px 20px gray;
+}
+.carder-2{
+    box-shadow: 8px 8px 20px gray;
+    border-radius: 12px;
+}
+.carder-2 img{
+    padding: 10px 10px;
+}
+.on-cours{
+    text-align: center;
+}
+.card-body ul{
+    list-style: none;
+    font-size: 10px;
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 20px;
+}
+.testimonial{
+    padding-bottom: 100px;
+    padding-top: 80px;
+}
+.testimonial-text{
+    text-align: center;
+    padding-top: 80px;
+    padding-bottom: 50px;
+}
+.iconic{
+    display: flex;
+    text-align: center;
+}
+.iconic img{
+    width: 120px;
+    height: 120px;
+
+}
+.iconic ul{
+    list-style: none;
+    display: flex;
+    padding-left: 80px;
+    text-align: justify;
+}
+.iconic ul p{
+    text-align: center;
+}
+.footer-section{
+    background-color: #282531;
+    color: white;
+    border-radius: 3px;
+    padding-top: 50px;
+    padding-bottom: 10px;
+    font-weight: 200;
+    line-height: 35px;
+}
+.fotter-menu ul {
+    list-style: none;
+    padding-bottom: 80px;
+}
+.fotter-menu ul a{
+    text-decoration: none;
+    color: white;
+}
+.terms{
+    font-weight: 700;
+    padding-bottom: 20px;
+}
